@@ -1,6 +1,6 @@
 # Coding_SkillSet_Topicwise
 
-## Code the followinig questions.
+## Code the following questions.
 
 Q1) Sort an array of 0’s 1’s 2’s without using extra space or sorting algorithm.</br>
 Q2) Repeat and Missing Number.</br>
