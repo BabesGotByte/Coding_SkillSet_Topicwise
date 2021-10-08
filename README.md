@@ -2,6 +2,8 @@
 
 ## Code the following questions.
 Please answer the questions in the "AnswerX.cpp" format..</br>
+This repositiory is to help begineers with open source.. </br>
+Plagarism will help no one. </br>
 
 ### Arrays:
 
