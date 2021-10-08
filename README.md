@@ -42,3 +42,4 @@ Q28) Remove N-th node from back of LinkedList.</br>
 Q29) Delete a given Node when a node is given. (0(1) solution).</br>
 Q30) Add two numbers as LinkedList.</br>
 
+Will be adding question related to ither data sets soon.
