@@ -43,6 +43,13 @@ Q27) Merge two sorted Linked List.</br>
 Q28) Remove N-th node from back of LinkedList.</br>
 Q29) Delete a given Node when a node is given. (0(1) solution).</br>
 Q30) Add two numbers as LinkedList.</br>
+Q31) Find intersection point of Y LinkedList.</br>
+Q32) Detect a cycle in Linked List.</br>
+Q33) Reverse a LinkedList in groups of size k.</br>
+Q34) heck if a LinkedList is palindrome or not.</br>
+Q35) Find the starting point of the Loop of LinkedList.</br>
+Q36) Flattening of a LinkedList.</br>
+Q37) Rotate a LinkedList.</br>
 
 Will be adding question related to other data structures soon.
 
