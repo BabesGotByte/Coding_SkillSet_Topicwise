@@ -46,7 +46,7 @@ Q30) Add two numbers as LinkedList.</br>
 Q31) Find intersection point of Y LinkedList.</br>
 Q32) Detect a cycle in Linked List.</br>
 Q33) Reverse a LinkedList in groups of size k.</br>
-Q34) heck if a LinkedList is palindrome or not.</br>
+Q34) Check if a LinkedList is palindrome or not.</br>
 Q35) Find the starting point of the Loop of LinkedList.</br>
 Q36) Flattening of a LinkedList.</br>
 Q37) Rotate a LinkedList.</br>
