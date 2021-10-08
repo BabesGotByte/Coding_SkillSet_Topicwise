@@ -42,7 +42,7 @@ Q28) Remove N-th node from back of LinkedList.</br>
 Q29) Delete a given Node when a node is given. (0(1) solution).</br>
 Q30) Add two numbers as LinkedList.</br>
 
-Will be adding question related to other data sets soon.
+Will be adding question related to other data structures soon.
 
 
 [![ForTheBadge built-with-love](http://ForTheBadge.com/images/badges/built-with-love.svg)](https://GitHub.com/Naereen/)
