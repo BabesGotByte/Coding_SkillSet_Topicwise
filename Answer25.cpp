@@ -63,10 +63,10 @@ int main()
 {
 	/* Start with the empty list */
 	LinkedList ll;
-	ll.push(10);
-	ll.push(40);
-	ll.push(50);
-	ll.push(80);
+	ll.push(11);
+	ll.push(41);
+	ll.push(51);
+	ll.push(81);
 
 	cout << "Given linked list\n";
 	ll.print();
