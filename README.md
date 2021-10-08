@@ -32,4 +32,16 @@ Q20) 4 Sum problem.</br>
 Q21) Longest Consecutive Sequence.</br> 
 Q22) Largest Subarray with 0 sum.</br> 
 Q23) Count number of subarrays with given XOR(this clears a lot of problems).</br>
-Q24)Longest substring without repeat.</br> 
+Q24) Longest substring without repeat.</br> 
+### Linklist:
+
+
+Day5: (LinkedList)
+
+Q25) Reverse a LinkedList.</br>
+Q26) Find middle of LinkedList.</br>
+Q27) Merge two sorted Linked List.</br>
+Q28) Remove N-th node from back of LinkedList.</br>
+Q29) Delete a given Node when a node is given. (0(1) solution).</br>
+Q30) Add two numbers as LinkedList.</br>
+
