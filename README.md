@@ -2,6 +2,8 @@
 
 ## Code the following questions.
 Please answer the questions in the "AnswerX.cpp" format..</br>
+This repositiory is to help begineers with open source.. </br>
+Plagarism will help no one. </br>
 
 ### Arrays:
 
@@ -32,4 +34,24 @@ Q20) 4 Sum problem.</br>
 Q21) Longest Consecutive Sequence.</br> 
 Q22) Largest Subarray with 0 sum.</br> 
 Q23) Count number of subarrays with given XOR(this clears a lot of problems).</br>
-Q24)Longest substring without repeat.</br> 
+Q24) Longest substring without repeat.</br> 
+### Linklist:
+
+Q25) Reverse a LinkedList.</br>
+Q26) Find middle of LinkedList.</br>
+Q27) Merge two sorted Linked List.</br>
+Q28) Remove N-th node from back of LinkedList.</br>
+Q29) Delete a given Node when a node is given. (0(1) solution).</br>
+Q30) Add two numbers as LinkedList.</br>
+Q31) Find intersection point of Y LinkedList.</br>
+Q32) Detect a cycle in Linked List.</br>
+Q33) Reverse a LinkedList in groups of size k.</br>
+Q34) Check if a LinkedList is palindrome or not.</br>
+Q35) Find the starting point of the Loop of LinkedList.</br>
+Q36) Flattening of a LinkedList.</br>
+Q37) Rotate a LinkedList.</br>
+
+Will be adding question related to other data structures soon.
+
+
+[![ForTheBadge built-with-love](http://ForTheBadge.com/images/badges/built-with-love.svg)](https://GitHub.com/Naereen/)
