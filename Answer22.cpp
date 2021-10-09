@@ -1,27 +1,33 @@
-/* A simple C++ program to find
-largest subarray with 0 sum */
+// C++ program to find the length of largest subarray with 0 sum
 #include <bits/stdc++.h>
 using namespace std;
 
+// Returns Length of the required subarray
 int maxLen(int arr[], int n)
 {
+	unordered_map<int, int> presum;
 
-	int max_len = 0;
+	int sum = 0; 
+	int max_len = 0; 
 
 	for (int i = 0; i < n; i++) {
+		sum += arr[i];
 
-		int curr_sum = 0;
+		if (arr[i] == 0 && max_len == 0)
+			max_len = 1;
+		if (sum == 0)
+			max_len = i + 1;
 
-		for (int j = i; j < n; j++) {
-			curr_sum += arr[j];
-
-			if (curr_sum == 0)
-				max_len = max(max_len, j - i + 1);
+		if (presum.find(sum) != presum.end()) {
+			max_len = max(max_len, i - presum[sum]);
+		}
+		else {
+			presum[sum] = i;
 		}
 	}
+
 	return max_len;
 }
-
 
 int main()
 {
@@ -29,5 +35,6 @@ int main()
 	int n = sizeof(arr) / sizeof(arr[0]);
 	cout << "Length of the longest 0 sum subarray is "
 		<< maxLen(arr, n);
+
 	return 0;
 }
