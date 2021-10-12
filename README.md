@@ -54,9 +54,9 @@ Q37) Rotate a LinkedList.</br>
 
 Q38) Clone a Linked List with random and next pointer.</br>
 Q39) 3 sum.</br>
-Q39) Trapping rainwater.</br> 
-Q40) Remove Duplicate from Sorted array.</br>
-Q41) Max consecutive ones.</br>
+Q40) Trapping rainwater.</br> 
+Q41) Remove Duplicate from Sorted array.</br>
+Q42) Max consecutive ones.</br>
 
 Will be adding question related to other data structures soon.
 
