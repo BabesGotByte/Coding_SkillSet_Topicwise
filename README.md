@@ -50,6 +50,13 @@ Q34) Check if a LinkedList is palindrome or not.</br>
 Q35) Find the starting point of the Loop of LinkedList.</br>
 Q36) Flattening of a LinkedList.</br>
 Q37) Rotate a LinkedList.</br>
+### 2-pointer:
+
+Q38) Clone a Linked List with random and next pointer.</br>
+Q39) 3 sum.</br>
+Q39) Trapping rainwater.</br> 
+Q40) Remove Duplicate from Sorted array.</br>
+Q41) Max consecutive ones.</br>
 
 Will be adding question related to other data structures soon.
 
