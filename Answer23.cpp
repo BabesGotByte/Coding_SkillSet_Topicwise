@@ -1,3 +1,6 @@
+//Q23) Count number of subarrays with given XOR(this clears a lot of problems).
+
+
 // A simple C++ Program to count all subarrays having
 // XOR of elements as given value m
 #include <bits/stdc++.h>
