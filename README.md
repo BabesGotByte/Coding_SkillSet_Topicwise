@@ -57,6 +57,20 @@ Q39) 3 sum.</br>
 Q40) Trapping rainwater.</br> 
 Q41) Remove Duplicate from Sorted array.</br>
 Q42) Max consecutive ones.</br>
+### Binary Tree:
+
+Q43) Level order Traversal / Level order traversal in spiral form.</br>
+Q44) Height of a Binary Tree.</br>
+Q45) Diameter of Binary Tree.</br>
+Q46) Check if Binary tree is height balanced or not.</br>
+Q47) LCA in Binary Tree.</br>
+Q48) Check if two trees are identical or not.</br>
+Q49) Maximum path sum.</br>
+Q50) Construct Binary Tree from inorder and preorder.</br>
+Q51) Construct Binary Tree from Inorder and Postorder.</br>
+Q52) Symmetric Binary Tree.</br>
+Q53) Flatten Binary Tree to LinkedList.</br>
+Q54) Check if Binary Tree is mirror of itself or not.</br> 
 
 Will be adding question related to other data structures soon.
 
