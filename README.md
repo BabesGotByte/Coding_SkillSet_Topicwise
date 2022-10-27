@@ -72,6 +72,25 @@ Q52) Symmetric Binary Tree.</br>
 Q53) Flatten Binary Tree to LinkedList.</br>
 Q54) Check if Binary Tree is mirror of itself or not.</br> 
 
+### Graph:
+
+Q55) Print Adjacency List
+Q56) Print BFS of a graph
+Q57) Print DFS of a graph
+Q58) Find Transitive closure of a graph
+Q59) Union Find
+Q60) Detect cycle using DSU in graph
+Q61) Number of Provinces
+Q62) Find the number of islands
+Q63) Detect cycle in an undirected graph
+Q64) Hamiltonian Path
+Q65) Prerequisites Tasks
+Q66) COurse SChedule
+Q67) Circle of Strings
+Q68) Snake and Ladder problem
+Q69) Bipartite graph
+Q70) Maximum BIpartite Matching
+
 Will be adding question related to other data structures soon.
 
 
