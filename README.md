@@ -90,6 +90,14 @@ Q67) Circle of Strings.</br>
 Q68) Snake and Ladder problem.</br> 
 Q69) Bipartite graph.</br> 
 Q70) Maximum BIpartite Matching.</br> 
+### Extra Questions:
+
+Q71) Allocate Books.</br> 
+Q72) Aggresive Cow.</br>
+Q72) Celebrity Problem.</br>
+Q73) Largest Rectangle in Histogram.<br/>
+
+
 
 Will be adding question related to other data structures soon.
 
