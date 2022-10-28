@@ -99,7 +99,7 @@ Q74) Rat in a maze.<br/>
 ### Stack:
 
 
-Q75) Valide parenthesis.<br/>
+Q75) Valid parenthesis.<br/>
 Q76) Reverse stack using recursion.<br/>
 Q77) Delete middle element in stack.<br/>
 Q78) Redundant brackets.<br/>
