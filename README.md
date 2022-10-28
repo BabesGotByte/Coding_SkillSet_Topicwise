@@ -3,7 +3,6 @@
 ## Code the following questions.
 Please answer the questions in the "AnswerX.cpp" format..</br>
 This repositiory is to help begineers with open source.. </br>
-Plagarism will help no one. </br>
 
 ### Arrays:
 
@@ -97,7 +96,7 @@ Q72) Aggresive Cow.</br>
 Q72) Celebrity Problem.</br>
 Q73) Largest Rectangle in Histogram.<br/>
 Q74) Rat in a maze.<br/>
-### Stack
+### Stack:
 
 
 Q75) Valide parenthesis.<br/>
