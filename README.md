@@ -96,7 +96,14 @@ Q71) Allocate Books.</br>
 Q72) Aggresive Cow.</br>
 Q72) Celebrity Problem.</br>
 Q73) Largest Rectangle in Histogram.<br/>
+Q74) Rat in a maze.<br/>
+### Stack
 
+
+Q75) Valide parenthesis.<br/>
+Q76) Reverse stack using recursion.<br/>
+Q77) Delete middle element in stack.<br/>
+Q78) Redundant brackets.<br/>
 
 
 Will be adding question related to other data structures soon.
