@@ -1,12 +1,10 @@
 #include<bits/stdc++.h>
-
 using namespace std;
-
 int main()
 {
-    int t;
-    cin >> t;
-    while(t--) {
+    int testCases;
+    cin >> testCases;
+    while(testCases--) {
         int n, wt;
         cin >> n;
         cin >> wt;
