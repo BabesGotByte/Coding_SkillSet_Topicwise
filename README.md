@@ -103,6 +103,9 @@ Q75) Valid parenthesis.<br/>
 Q76) Reverse stack using recursion.<br/>
 Q77) Delete middle element in stack.<br/>
 Q78) Redundant brackets.<br/>
+### Dynamic Programming
+
+Q79) 0-1 Knapsack Problem
 
 
 Will be adding question related to other data structures soon.
