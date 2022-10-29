@@ -109,6 +109,7 @@ Q79) 0-1 Knapsack Problem
 
 ### Queue
 Q80) Flatten Nested List Iterator
+Q81) Number of Students Unable to Eat Lunch
 
 Will be adding question related to other data structures soon.
 
