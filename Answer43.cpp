@@ -20,8 +20,8 @@ struct node {
 
     node(int x, node *left, node *right){
         val = x;
-        this.left = left;
-        this.right = right;
+        left = left;
+        right = right;
     }
 };
 
