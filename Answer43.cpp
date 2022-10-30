@@ -1,60 +1,61 @@
 #include<iostream>
+#include<vector>
 using namespace std;
 
+struct node {
+    int val;
+    node *left;
+    node *right;
+    node(){
+        val = 0;
+        left = NULL;
+        right = NULL;
+    } 
 
-struct Node  
-{ 
-  int key; 
-  struct Node *left; 
-  struct Node *right; 
-  Node(int k){
-      key=k;
-      left=right=NULL;
-  }
+    node(int x) {
+        val = x;
+        left = NULL;
+        right = NULL;
+    }
+
+    node(int x, node *left, node *right){
+        val = x;
+        this.left = left;
+        this.right = right;
+    }
 };
 
+class SpiralTraversal
+    vector<vector<int>> Spiral(node* root) {
+        vector<vector<int>> result;
 
-void printSpiral(Node *root){
-    if(root==NULL)return;
-    queue<Node *>q;
-    stack<int> s;
-    bool reverse=false;
-    q.push(root);
-    while(q.empty()==false){
-        int count=q.size();
-        for(int i=0;i<count;i++){
-        Node *curr=q.front();
-        q.pop();
-        if(reverse)
-            s.push(curr->key);
-        else
-            cout<<curr->key<<" ";
-        if(curr->left!=NULL)
-            q.push(curr->left);
-        if(curr->right!=NULL)
-            q.push(curr->right);
+        if (root == NULL) {
+            return result;
         }
-        if(reverse){
-            while(s.empty()==false){
-                cout<<s.top()<<" ";
-                s.pop();
+
+        queue<node*> q;
+        q.push(root);
+
+        bool leftToRight = true;
+        while ( !q.e empty()) {
+            int size = q.size();;
+            vector<int> row(size);
+            for (int i = 0; i < size; i++) {
+                node* Node = q.frontO;
+                q.pop();
+                // find position to fill node's value
+                int index = (leftToRight) ? i : (size - 1 -i);
+                row[index] = node->val;
+
+                if (Node->left) {
+                   q.push(Node->left);
+                }
+                if (node->right) {
+                   q.push(Node->right);
+                }
             }
-        }
-    reverse=!reverse;
-    }
-}  
-
-
-int main() {
-    
-    Node *root=new Node(10);
-    root->left=new Node(20);
-    root->right=new Node(30);
-    root->left->left=new Node(40);
-    root->left->right=new Node(50);
-    root->left->right->left=new Node(70);
-    root->left->right->right=new Node(80);
-    root->right->right=new Node(60);
-    
-    printSpiral(root);
+             // after this level
+            leftToRight = !leftToRight;
+            result.push_back(row);
+        return result;
 }
