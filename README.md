@@ -111,7 +111,7 @@ Q79) 0-1 Knapsack Problem
 Q80) Flatten Nested List Iterator.<br/>
 Q81) Number of Students Unable to Eat Lunch.<br/>
 
-Arrays1:
+Arrays1:</br>
 Q1.1) Sort an array of 0’s 1’s 2’s without using extra space or sorting algorithm.</br>
 Q1.2) Repeat and Missing Number.</br>
 Q1.3) Merge two sorted Arrays without extra space.</br>
