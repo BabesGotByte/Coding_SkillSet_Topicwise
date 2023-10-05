@@ -112,18 +112,18 @@ Q80) Flatten Nested List Iterator.<br/>
 Q81) Number of Students Unable to Eat Lunch.<br/>
 
 Arrays1:
-Q1.1) Sort an array of 0’s 1’s 2’s without using extra space or sorting algorithm.
-Q1.2) Repeat and Missing Number.
-Q1.3) Merge two sorted Arrays without extra space.
-Q1.4) Kadane’s Algorithm.
-Q1.5) Merge Overlapping Subintervals.
-Q1.6) Find the duplicate in an array of N+1 integers.
-Q1.7) Set Matrix Zeroes.
-Q1.8) Pascal Triangle.
-Q1.9) Next Permutation.
-Q1.10) Inversion of Array (Using Merge Sort).
-Q1.11) Stock Buy and Sell.
-Q1.12) Rotate Matrix.
+Q1.1) Sort an array of 0’s 1’s 2’s without using extra space or sorting algorithm.</br>
+Q1.2) Repeat and Missing Number.</br>
+Q1.3) Merge two sorted Arrays without extra space.</br>
+Q1.4) Kadane’s Algorithm.</br>
+Q1.5) Merge Overlapping Subintervals.</br>
+Q1.6) Find the duplicate in an array of N+1 integers.</br>
+Q1.7) Set Matrix Zeroes.</br>
+Q1.8) Pascal Triangle.</br>
+Q1.9) Next Permutation.</br>
+Q1.10) Inversion of Array (Using Merge Sort).</br>
+Q1.11) Stock Buy and Sell.</br>
+Q1.12) Rotate Matrix.</br>
 
 Will be adding question related to other data structures soon.
 
