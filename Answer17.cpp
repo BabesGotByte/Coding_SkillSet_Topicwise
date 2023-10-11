@@ -16,7 +16,7 @@ int main()
     cout<<"Enter Grid Dimensions : "<<endl;
     cin>>m>>n;
     
-    cout<<"Number of unique path for grid of "<<m<<" x "<<n<<" = "<<uniquePath(m,n);
+    cout<<"Number of unique path for grid of size: "<<m<<" x "<<n<<" = "<<uniquePath(m,n);
   return 0;
 }
 
