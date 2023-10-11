@@ -70,7 +70,7 @@ int main()
 
 	cout << "Given linked list\n";
 	ll.print();
-
+        cout<<"Reversing the linked list\n";
 	ll.reverse();
 
 	cout << "\nReversed Linked list \n";
