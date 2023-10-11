@@ -22,7 +22,7 @@ int maxSubArraySum(int a[], int size)
             s = i + 1;
         }
     }
-    cout << "Maximum contiguous sum of array is "
+    cout << "Maximum contiguous sum is "
         << max_so_far << endl;
     cout << "Starting index "<< start
         << endl << "Ending index "<< end << endl;
