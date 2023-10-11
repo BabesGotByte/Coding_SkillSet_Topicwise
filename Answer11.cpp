@@ -7,6 +7,7 @@ public:
             minimalPrice= min(minimalPrice,prices[i]);
             maxProf= max(maxProf, prices[i]-minimalPrice);
         }
+        cout<<maxProf;
         return maxProf;
     }
 };
